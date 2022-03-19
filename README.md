@@ -25,11 +25,11 @@ Businesses - regardless of the size of their operation or industry - can use Lev
 
 ## Visit Level Up
 
-You can find _Level Up_ [here](https://leveluployalty.netlify.app/).
+You can find _Level Up_ [here](https://levelupcompany.netlify.app/).
 
 
 
 
 #### Front-End Repository
 
- - [Link](https://github.com/jdc212/levelup-client)
+ - [Link](https://github.com/gilgameshr3rr/levelup-client)
